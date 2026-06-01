@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['cpdf_5fgetpagecount_0',['CPDF_GetPageCount',['../compdf__common__c_8h.html#a900f48f599c764e503531042d19b2386',1,'compdf_common_c.h']]],
+  ['cpdf_5fgetremainingpagequota_1',['CPDF_GetRemainingPageQuota',['../compdf__common__c_8h.html#a17c9caec1b1e6b5c72d51fe0bfc22008',1,'compdf_common_c.h']]],
+  ['cpdf_5fgetversion_2',['CPDF_GetVersion',['../compdf__common__c_8h.html#aa83c6196b04d1764222ed678b667206b',1,'compdf_common_c.h']]],
+  ['cpdf_5finitialize_3',['CPDF_Initialize',['../compdf__common__c_8h.html#ad4a3785a43052536c28607f8f83a1676',1,'compdf_common_c.h']]],
+  ['cpdf_5flicenseverify_4',['CPDF_LicenseVerify',['../compdf__common__c_8h.html#a20359935b5eef6fa66110c67c8087452',1,'compdf_common_c.h']]],
+  ['cpdf_5frelease_5',['CPDF_Release',['../compdf__common__c_8h.html#a21f7ab6657134ec9f709a2b12e7db24d',1,'compdf_common_c.h']]],
+  ['cpdf_5freleasedocumentaimodel_6',['CPDF_ReleaseDocumentAIModel',['../compdf__common__c_8h.html#ab62d9881e3ac2eaf24c2cc6cb4d6d143',1,'compdf_common_c.h']]],
+  ['cpdf_5fsetdocumentaimodel_7',['CPDF_SetDocumentAIModel',['../compdf__common__c_8h.html#ac4c00f235c7c35ef483d82b25a779c9e',1,'compdf_common_c.h']]],
+  ['cpdf_5fsetdocumentaimodelcount_8',['CPDF_SetDocumentAIModelCount',['../compdf__common__c_8h.html#a51ea15351d8ea94f9ea25c92b9dad6a7',1,'compdf_common_c.h']]],
+  ['cpdf_5fsetlogger_9',['CPDF_SetLogger',['../compdf__common__c_8h.html#af97567dccf8b337f708bac27c0c62717',1,'compdf_common_c.h']]],
+  ['cpdf_5fstartpdftoexcel_10',['CPDF_StartPDFToExcel',['../compdf__conversion__c_8h.html#a7a89f983da37b90cf26a857985ec6cf5',1,'compdf_conversion_c.h']]],
+  ['cpdf_5fstartpdftohtml_11',['CPDF_StartPDFToHtml',['../compdf__conversion__c_8h.html#a22baa4fabe93d1ecae3a215ed5efd7f5',1,'compdf_conversion_c.h']]],
+  ['cpdf_5fstartpdftoimage_12',['CPDF_StartPDFToImage',['../compdf__conversion__c_8h.html#af8fb5883e549ac00eb775a14f355af39',1,'compdf_conversion_c.h']]],
+  ['cpdf_5fstartpdftojson_13',['CPDF_StartPDFToJson',['../compdf__conversion__c_8h.html#afc09b70461c14700dec89883ecdee6ac',1,'compdf_conversion_c.h']]],
+  ['cpdf_5fstartpdftomarkdown_14',['CPDF_StartPDFToMarkdown',['../compdf__conversion__c_8h.html#af81d52103fdbdf53f827e7c328b3bdbc',1,'compdf_conversion_c.h']]],
+  ['cpdf_5fstartpdftoofd_15',['CPDF_StartPDFToOfd',['../compdf__conversion__c_8h.html#aeb414aacff1c76880f6eb793d39fca82',1,'compdf_conversion_c.h']]],
+  ['cpdf_5fstartpdftoppt_16',['CPDF_StartPDFToPpt',['../compdf__conversion__c_8h.html#a86a57e0b9ebf73238eae6171ba6d18a0',1,'compdf_conversion_c.h']]],
+  ['cpdf_5fstartpdftortf_17',['CPDF_StartPDFToRtf',['../compdf__conversion__c_8h.html#a2dd5814df3199d0edbaa73357c6c4b6c',1,'compdf_conversion_c.h']]],
+  ['cpdf_5fstartpdftosearchablepdf_18',['CPDF_StartPDFToSearchablePDF',['../compdf__conversion__c_8h.html#a89e38838b3f8819d8bf99322bc2c51f9',1,'compdf_conversion_c.h']]],
+  ['cpdf_5fstartpdftotxt_19',['CPDF_StartPDFToTxt',['../compdf__conversion__c_8h.html#aadcaae12d8d98b74689136bb072f1013',1,'compdf_conversion_c.h']]],
+  ['cpdf_5fstartpdftoword_20',['CPDF_StartPDFToWord',['../compdf__conversion__c_8h.html#aa8009d3285d3458b1eea05d5d08f11d6',1,'compdf_conversion_c.h']]]
+];
