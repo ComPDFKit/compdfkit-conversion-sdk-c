@@ -16,7 +16,7 @@ As part of the KDAN ecosystem, ComPDF Conversion SDK gives your C applications t
 
 * Convert PDF to CSV (.csv)
 
-* Convert PDF to Image (.png, .jpg, .jpeg,.jpeg2000, .bmp, .tiff, .tga, .gif, .webp)
+* Convert PDF to Image (.png, .jpg, .jpeg, .jpeg2000, .bmp, .tiff, .tga, .gif, .webp)
 
 * Convert PDF to Plain Text (.txt)
 
